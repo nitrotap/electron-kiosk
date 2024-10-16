@@ -83,12 +83,12 @@ const PlaneScene: React.FC = () => {
 
     return (
         <div>
-            <div ref={mountRef} />
             <div style={{ padding: '10px', textAlign: 'center' }}>
                 <p>
-                    Airplane model: <a href="https://sketchfab.com/3d-models/beechcraft-t6-texan-ii-59b501961deb4fa4a3ab4916182786db" target="_blank" rel="noopener noreferrer">Beechcraft T6 Texan II</a> by <a href="https://sketchfab.com/helijah" target="_blank" rel="noopener noreferrer">helijah</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.
+                    "Beechcraft C18 S Floats version" (https://skfb.ly/6WIAP) by helijah is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
                 </p>
             </div>
+            <div ref={mountRef} />
         </div>
     );
 };
