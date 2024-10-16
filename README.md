@@ -1,13 +1,13 @@
-# kiosk-models
+# electron-kiosk
 
 ## Description
 
 A simple electron app for linux, macos, and windows that wraps threejs.
 <br />
-![badmath](https://img.shields.io/github/languages/top/nitrotap/kiosk-models)
-![badmath](https://img.shields.io/github/issues/nitrotap/kiosk-models)
-![badmath](https://img.shields.io/github/forks/nitrotap/kiosk-models)  
-![badmath](https://img.shields.io/github/stars/nitrotap/kiosk-models)
+![badmath](https://img.shields.io/github/languages/top/nitrotap/electron-kiosk)
+![badmath](https://img.shields.io/github/issues/nitrotap/electron-kiosk)
+![badmath](https://img.shields.io/github/forks/nitrotap/electron-kiosk)  
+![badmath](https://img.shields.io/github/stars/nitrotap/electron-kiosk)
 
 ## Table of Contents
 
